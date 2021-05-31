@@ -1,2 +1,3 @@
 # my-resume
-[My Resume](https://sonyprabha.github.io/my-resume/){target="_blank"}
+
+<a href="https://sonyprabha.github.io/my-resume/" target="_blank">My Resume</a>
